@@ -1,0 +1,13 @@
+{
+  "name": "socket-uno",
+  "version": "0.0.1",
+  "description": "UNO game on javascript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^2.4.0"
+  }
+}
