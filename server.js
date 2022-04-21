@@ -476,7 +476,7 @@ function onConnection(socket) {
         io.to(idPlayer).emit('haveCard', handPlayer);
         console.log("handplayer : "+ handPlayer);
         if (handPlayer.length === 0){
-          io.to(res[1]).emit("win", namePlayer);
+          io.to(idPlayer).emit("win", namePlayer);
         }
 
         let card1 = parseInt(deck.shift());
