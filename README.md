@@ -7,5 +7,5 @@
 
 https://github.com/Jett-Code/UnoGame/assets/64737847/56b4f76d-ed44-4857-aaa2-022091a3cbc5
 
-TO-DO:
-Hosting
+You can play it here 
+https://unocardgame.glitch.me
